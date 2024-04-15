@@ -1,6 +1,6 @@
 <div>
   <div align="center" style="display: block; text-align: center;">
-    <img src="./docs/images/logo.png" width="100" height="100" />
+    <img src="./docs/images/logo.png" width="200" height="200" />
   </div>
   <h1 align="center">Python for Data Science</h1>
   <h4 align="center">🐍 Following "Python for Data Science" Book Exercises</h4>
