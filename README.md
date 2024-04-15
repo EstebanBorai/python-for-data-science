@@ -26,3 +26,7 @@ docker compose down
 > A [Justfile][1] is included!
 
 [1]: https://just.systems
+
+## About The Book
+
+Find the Book in _No Starch Press_ [here](https://nostarch.com/python-data-science)
