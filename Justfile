@@ -2,10 +2,10 @@ default:
     just --list
 
 dev:
-  docker compose up notebook
+  docker compose up
 
 build:
-  docker compose build notebook
+  docker compose build
 
 cleanup:
   docker compose down

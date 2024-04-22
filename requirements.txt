@@ -2,6 +2,7 @@ h5py == 3.10.0
 jupyter == 1.0.0
 keras == 3.2.0
 matplotlib == 3.8.4
+mysql-connector-python == 8.3.0
 notebook == 7.1.2
 numpy == 1.26.4
 pandas == 2.2.1
